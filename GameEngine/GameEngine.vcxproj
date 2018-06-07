@@ -118,6 +118,7 @@
     <ClInclude Include="CircularBuffer.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayVectorList.cpp" />
     <ClCompile Include="BitData.cpp" />
     <ClCompile Include="BitOperation.cpp" />
     <ClCompile Include="CircularBuffer.cpp" />
