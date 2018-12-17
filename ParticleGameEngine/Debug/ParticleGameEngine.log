@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\documents\degree\sem 7\game engine design and architecture\assignment\assignment 2\particlegameengine\particlegameengine\main.cpp(71): warning C4474: 'printf' : too many arguments passed for format string
+  d:\documents\degree\sem 7\game engine design and architecture\assignment\assignment 2\particlegameengine\particlegameengine\main.cpp(71): note: placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+d:\documents\degree\sem 7\game engine design and architecture\assignment\assignment 2\particlegameengine\particlegameengine\main.cpp(144): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\documents\degree\sem 7\game engine design and architecture\assignment\assignment 2\particlegameengine\particlegameengine\main.cpp(145): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  ParticleGameEngine.vcxproj -> D:\Documents\Degree\Sem 7\Game Engine Design and Architecture\Assignment\Assignment 2\ParticleGameEngine\Debug\ParticleGameEngine.exe
